@@ -1,2 +1,1 @@
-# BancoPOO_Java
-Taller realizado en clase de Logica para solucion de problemas 
+Generar el redme con la descripción del proyecto
