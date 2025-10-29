@@ -61,8 +61,30 @@ El sistema está dividido en varios módulos que cumplen diferentes responsabili
 <img width="1365" height="719" alt="Captura de pantalla 2025-10-28 204524" src="https://github.com/user-attachments/assets/63a442aa-07cc-42cb-a010-9eed9d7a9ea6" />
 <img width="1365" height="718" alt="Captura de pantalla 2025-10-28 204250" src="https://github.com/user-attachments/assets/48d8f138-daff-414d-95a1-623ca762f847" />
 
+--
+
+## Swagger
+   <img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/ac46f8a2-3bc6-4450-91d0-86cbd46e1493" />
+   <img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/15b579aa-eaf0-4184-9509-011131869f26" />
+   <img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/47c6e891-12e9-4fce-be3c-c5c4eaed0a3c" />
+   <img width="1365" height="393" alt="image" src="https://github.com/user-attachments/assets/8a249864-51f2-4c0f-9034-855ba868bfbe" />
+   <img width="1365" height="331" alt="image" src="https://github.com/user-attachments/assets/46c5d6e1-0823-4a3c-b014-a1158157b057" />
+   <img width="1358" height="467" alt="image" src="https://github.com/user-attachments/assets/4ec2cfa5-1b53-4c10-8782-eb64549cac2b" />
+   <img width="1365" height="563" alt="image" src="https://github.com/user-attachments/assets/45c1f459-116a-48d2-9fed-12d30a789438" />
+   <img width="1364" height="595" alt="image" src="https://github.com/user-attachments/assets/77307c1c-9bc9-403b-9dd4-4530434e564c" />
+   <img width="1365" height="566" alt="image" src="https://github.com/user-attachments/assets/5c37eccc-b41e-464a-b697-3e1938a1b699" />
+   <img width="1365" height="414" alt="image" src="https://github.com/user-attachments/assets/7a22e731-e67e-4fea-bbb2-e4a393cf6a5d" />
 
 
+
+   
+
+
+
+
+
+
+  
 
 
 ## 🚀 Cómo ejecutar el proyecto
