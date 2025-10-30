@@ -51,7 +51,7 @@ El sistema está dividido en varios módulos que cumplen diferentes responsabili
 ---
 
 ## 🧩 Pruebas postman 
-   <img width="1365" height="721" alt="Captura de pantalla 2025-10-28 204235" src="https://github.com/user-attachments/assets/fe8e24e9-2657-41c6-ba50-6d5da2df60f9" />
+<img width="1365" height="721" alt="Captura de pantalla 2025-10-28 204235" src="https://github.com/user-attachments/assets/fe8e24e9-2657-41c6-ba50-6d5da2df60f9" />
 <img width="1365" height="718" alt="Captura de pantalla 2025-10-28 194701" src="https://github.com/user-attachments/assets/047b9246-e0d9-4bb2-ad4f-4946419a9e57" />
 <img width="1364" height="719" alt="Captura de pantalla 2025-10-28 194353" src="https://github.com/user-attachments/assets/20eeb1eb-4e29-43f2-9ada-5f6e7f42b9d3" />
 <img width="1365" height="722" alt="Captura de pantalla 2025-10-28 194336" src="https://github.com/user-attachments/assets/2c2c52b2-c866-4dc8-a447-95f0f04a294a" />
