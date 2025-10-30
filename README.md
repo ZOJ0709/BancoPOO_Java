@@ -74,6 +74,8 @@ El sistema está dividido en varios módulos que cumplen diferentes responsabili
    <img width="1364" height="595" alt="image" src="https://github.com/user-attachments/assets/77307c1c-9bc9-403b-9dd4-4530434e564c" />
    <img width="1365" height="566" alt="image" src="https://github.com/user-attachments/assets/5c37eccc-b41e-464a-b697-3e1938a1b699" />
    <img width="1365" height="414" alt="image" src="https://github.com/user-attachments/assets/7a22e731-e67e-4fea-bbb2-e4a393cf6a5d" />
+   <img width="1365" height="511" alt="image" src="https://github.com/user-attachments/assets/36869c90-6f51-4f49-975c-91a48c2a4798" />
+
 
 
 
