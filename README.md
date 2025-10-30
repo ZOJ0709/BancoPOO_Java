@@ -18,26 +18,25 @@ Además, se implementan conceptos fundamentales como **clases, objetos, herencia
 
 ---
 ## Estructura del proyecto
-bank-app/
-├── src/
-│   ├── main/java/com/logsoluprobl/appbank/
-│   │   ├── app/                     # Clase principal
-│   │   │   └── BankAppApplication.java
-│   │   ├── model/                   # Modelos de dominio (Account, Customer, etc.)
-│   │   ├── service/                 # Lógica de negocio
-│   │   ├── repository/              # Persistencia con JSON
-│   │   ├── controller/              # Controladores REST
-│   │   ├── exception/               # Excepciones personalizadas
-│   │   ├── util/                    # Utilidades de lectura/escritura JSON
-│   │   └── config/                  # Configuración de OpenAPI (Swagger)
-│   └── resources/
-│       ├── application.properties   # Configuración de Spring
-│       ├── data/
-│       │   ├── customers.json
-│       │   └── accounts.json
-│       └── static/
-│
-└── pom.xml
+-bank-app/
+-│
+-├── src/main/java/com/logsoluprobl/appbank/
+-│   ├── appbank/                  # Clase principal
+-│   ├── model/                    # Modelos de dominio (Account, Customer, etc.)
+-│   ├── repository/               # Persistencia con JSON
+-│   ├── service/                  # Lógica de negocio
+-│   ├── controller/               # Controladores REST
+-│   ├── exception/                # Excepciones personalizadas
+-│   ├── util/                     # Utilidades de lectura/escritura JSON
+-│   └── config/                   # Configuración de Swagger y Spring
+-│
+-├── src/main/resources/
+-│   ├── application.properties    # Configuración de Spring Boot
+-│   └── data/                     # Datos simulados (JSON)
+-│
+-├── postman_collection.json       # Pruebas Postman
+-└── README.md
+
 
 ## 🧱 Componentes principales del proyecto
 El sistema está dividido en varios módulos que cumplen diferentes responsabilidades:
@@ -76,10 +75,18 @@ El sistema está dividido en varios módulos que cumplen diferentes responsabili
    <img width="1365" height="414" alt="image" src="https://github.com/user-attachments/assets/7a22e731-e67e-4fea-bbb2-e4a393cf6a5d" />
    <img width="1365" height="511" alt="image" src="https://github.com/user-attachments/assets/36869c90-6f51-4f49-975c-91a48c2a4798" />
 
+## 🔄 Documentación de API
+- http://localhost:8080/swagger-ui/index.html
+- @Operation(summary = "Crear un nuevo cliente")
+@ApiResponses(value = {
+    @ApiResponse(responseCode = "200", description = "Cliente creado correctamente"),
+    @ApiResponse(responseCode = "400", description = "Error en los datos enviados")
+})
+@PostMapping("/customers")
+public ResponseEntity<Customer> createCustomer(@RequestBody Customer customer) {
+    return ResponseEntity.ok(bankService.createCustomer(customer));
+}
 
-
-
-   
 
 
 
